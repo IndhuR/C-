@@ -1,0 +1,7 @@
+#include<iostream>
+#define multi(a,b) a*b ;
+using namespace std;
+int main(){
+	cout<<multi(3,2);
+	return 0;
+}
